@@ -91,6 +91,8 @@
     <attr name="tabMaxWidth" format="dimension"/>
     <!-- A reference to a TextAppearance style to be applied to tabs. -->
     <attr name="tabTextAppearance" format="reference"/>
+    <attr name="tabRotation" format="integer"/>
+    <attr name="tabOrderReverse" format="boolean"/>
     <!-- The default text color to be applied to tabs. -->
     <attr name="tabTextColor" format="color"/>
     <!-- {@deprecated Instead, provide a ColorStateList to the tabTextColor attribute with a
